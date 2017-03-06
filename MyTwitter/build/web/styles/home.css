@@ -1,0 +1,14 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 22, 2016, 11:45:12 AM
+    Author     : vivek
+*/
+html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
+.w3-container w3-content{
+    max-width:1400px;
+    margin-top:80px;
+}
